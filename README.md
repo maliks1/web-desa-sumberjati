@@ -59,7 +59,7 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer Anda.
     ```
     Masuk ke direktori proyek:
     ```bash
-    cd web-desa-cipancur
+    cd web-desa-sumberjati
     ```
 
 3.  **Pengaturan Database**
@@ -121,8 +121,8 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer Anda.
 
 5.  **Jalankan Aplikasi**
     -   Letakkan folder proyek di dalam direktori `htdocs` (untuk XAMPP) atau `www` (untuk Laragon).
-    -   Buka browser dan akses URL: `http://localhost/web-desa/` (sesuaikan `web-desa` dengan nama folder Anda).
-    -   Untuk masuk ke panel admin, akses: `http://localhost/web-desa/admin/login`
+    -   Buka browser dan akses URL: `http://localhost/web-desa-sumberjati/`
+    -   Untuk masuk ke panel admin, akses: `http://localhost/web-desa-sumberjati/admin/login`
 
 ---
 
