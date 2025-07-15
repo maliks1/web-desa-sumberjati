@@ -1,4 +1,4 @@
-# Website Sistem Informasi Desa (Web Desa)
+# Website Sistem Informasi Desa
 
 Aplikasi web sederhana untuk Sistem Informasi Desa yang dibangun menggunakan PHP native, MySQL, dan Tailwind CSS. Aplikasi ini bertujuan untuk mempermudah pengelolaan informasi desa dan pelayanan administrasi kepada masyarakat secara online.
 
