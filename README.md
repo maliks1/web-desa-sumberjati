@@ -2,9 +2,7 @@
 
 Aplikasi web sederhana untuk Sistem Informasi Desa yang dibangun menggunakan PHP native, MySQL, dan Tailwind CSS. Aplikasi ini bertujuan untuk mempermudah pengelolaan informasi desa dan pelayanan administrasi kepada masyarakat secara online.
 
-![Tampilan Website Desa](./screenshot.png) 
-*(Catatan: Anda bisa mengganti `screenshot.png` dengan screenshot tampilan website Anda)*
-
+![Tampilan Website Desa](./screenshot.jpg)
 ---
 
 ## 🚀 Fitur Utama
