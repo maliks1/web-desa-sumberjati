@@ -55,11 +55,11 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer Anda.
 2.  **Clone Repositori**
     Buka terminal atau Git Bash, lalu clone repositori ini:
     ```bash
-    git clone https://github.com/Rizkuy01/webdesa-cipancur.git
+    git clone https://github.com/maliks1/web-desa-sumberjati.git
     ```
     Masuk ke direktori proyek:
     ```bash
-    cd webdesa-cipancur
+    cd web-desa-cipancur
     ```
 
 3.  **Pengaturan Database**
@@ -121,8 +121,8 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer Anda.
 
 5.  **Jalankan Aplikasi**
     -   Letakkan folder proyek di dalam direktori `htdocs` (untuk XAMPP) atau `www` (untuk Laragon).
-    -   Buka browser dan akses URL: `http://localhost/webdesa-cipancur/` (sesuaikan `webdesa-cipancur` dengan nama folder Anda).
-    -   Untuk masuk ke panel admin, akses: `http://localhost/webdesa-cipancur/admin/login`
+    -   Buka browser dan akses URL: `http://localhost/web-desa/` (sesuaikan `web-desa` dengan nama folder Anda).
+    -   Untuk masuk ke panel admin, akses: `http://localhost/web-desa/admin/login`
 
 ---
 
